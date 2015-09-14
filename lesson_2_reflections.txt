@@ -1,0 +1,3 @@
+When you initialize a repository a .git directory is created.
+
+The directory is needed so that you can start tracking the file history in the folder where you created a directory.

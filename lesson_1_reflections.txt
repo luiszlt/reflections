@@ -1,0 +1,2 @@
+It's obviously easier to use diff and fc to compare versions of code. I've used more graphical interfaced things before and that works awesome.
+
