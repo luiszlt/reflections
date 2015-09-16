@@ -1,0 +1,5 @@
+git remote: see any remote branches/repositories
+
+git remote add origin https://github.com/luiszlt/reflections.git : add remote repository giving it a name (origin) and a url
+
+git push origin master: push the "master" branch into the remote respository "origin"
