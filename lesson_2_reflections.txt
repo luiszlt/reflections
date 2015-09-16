@@ -4,3 +4,16 @@ The directory is needed so that you can start tracking the file history in the f
 
 The staging area offers a place to add files without committing so that you can change your mind afterwards. The working directory 
 is the directory that houses all files whether they are being tracked or not. The staging area is probably just pointers in memory to the files.
+
+git status
+
+git show : Show the last commit and the changes it made to it's parent
+
+
+git merge --abort : Abort the merge when there are conflicts
+
+
+git config --global core.editor "'C:/Apps/Notepad++/notepad++.exe' -n" : global configuration to set the editor
+
+
+git init : Create a git repository in the current directory.
